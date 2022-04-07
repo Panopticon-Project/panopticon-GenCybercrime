@@ -7,3 +7,5 @@ https://www.justice.gov/opa/pr/cybercriminal-connected-multimillion-dollar-ranso
 https://krebsonsecurity.com/2022/03/estonian-tied-to-13-ransomware-attacks-gets-66-months-in-prison/
 
 https://therecord.media/25-million-confiscated-by-german-authorities-in-takedown-of-hydra-dark-web-marketplace
+
+https://www.wired.com/story/hydra-market-shutdown/
