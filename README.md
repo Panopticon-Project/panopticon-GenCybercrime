@@ -9,3 +9,5 @@ https://krebsonsecurity.com/2022/03/estonian-tied-to-13-ransomware-attacks-gets-
 https://therecord.media/25-million-confiscated-by-german-authorities-in-takedown-of-hydra-dark-web-marketplace
 
 https://www.wired.com/story/hydra-market-shutdown/
+
+https://www.securityweek.com/russian-operator-cybercrime-marketplace-indicted-us
