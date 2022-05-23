@@ -11,3 +11,5 @@ https://therecord.media/25-million-confiscated-by-german-authorities-in-takedown
 https://www.wired.com/story/hydra-market-shutdown/
 
 https://www.securityweek.com/russian-operator-cybercrime-marketplace-indicted-us
+
+https://securityintelligence.com/posts/itg23-crypters-cooperation-between-cybercriminal-groups/
