@@ -15,3 +15,5 @@ https://www.securityweek.com/russian-operator-cybercrime-marketplace-indicted-us
 https://securityintelligence.com/posts/itg23-crypters-cooperation-between-cybercriminal-groups/
 
 https://securelist.com/initial-access-data-price-on-the-dark-web/106740/
+
+https://www.securityweek.com/access-brokers-and-ransomware-service-gangs-tighten-relationships
