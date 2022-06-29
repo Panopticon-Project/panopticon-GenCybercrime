@@ -17,3 +17,5 @@ https://securityintelligence.com/posts/itg23-crypters-cooperation-between-cyberc
 https://securelist.com/initial-access-data-price-on-the-dark-web/106740/
 
 https://www.securityweek.com/access-brokers-and-ransomware-service-gangs-tighten-relationships
+
+https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html?utm_source=feedburner&utm_medium=email
