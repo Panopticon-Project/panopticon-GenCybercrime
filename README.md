@@ -19,3 +19,9 @@ https://securelist.com/initial-access-data-price-on-the-dark-web/106740/
 https://www.securityweek.com/access-brokers-and-ransomware-service-gangs-tighten-relationships
 
 https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html?utm_source=feedburner&utm_medium=email
+
+https://www.scmagazine.com/analysis/third-party-risk/online-skimming-hammers-restaurant-payment-platforms-as-attacker-base-widens
+
+https://threatpost.com/magecart-restaurant-ordering-systems/180254/
+
+https://www.recordedfuture.com/amid-rising-magecart-attacks-online-ordering-platforms
