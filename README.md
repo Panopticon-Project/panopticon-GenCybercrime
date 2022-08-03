@@ -29,3 +29,5 @@ https://www.recordedfuture.com/amid-rising-magecart-attacks-online-ordering-plat
 https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/behind-the-rise-of-ransomware/
 
 https://www.recordedfuture.com/initial-access-brokers-key-to-rise-in-ransomware-attacks
+
+https://blog.virustotal.com/2022/08/deception-at-scale.html
