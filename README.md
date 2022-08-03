@@ -25,3 +25,5 @@ https://www.scmagazine.com/analysis/third-party-risk/online-skimming-hammers-res
 https://threatpost.com/magecart-restaurant-ordering-systems/180254/
 
 https://www.recordedfuture.com/amid-rising-magecart-attacks-online-ordering-platforms
+
+https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/behind-the-rise-of-ransomware/
