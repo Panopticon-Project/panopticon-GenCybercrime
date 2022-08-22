@@ -31,3 +31,5 @@ https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/behind-the
 https://www.recordedfuture.com/initial-access-brokers-key-to-rise-in-ransomware-attacks
 
 https://blog.virustotal.com/2022/08/deception-at-scale.html
+
+https://www.microsoft.com/security/blog/2022/08/18/hardware-based-threat-defense-against-increasingly-complex-cryptojackers/
