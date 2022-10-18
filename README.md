@@ -35,3 +35,5 @@ https://blog.virustotal.com/2022/08/deception-at-scale.html
 https://www.microsoft.com/security/blog/2022/08/18/hardware-based-threat-defense-against-increasingly-complex-cryptojackers/
 
 https://resecurity.com/blog/article/cybercriminals-are-targeting-law-enforcement-agencies-worldwide?utm_source=substack&utm_medium=email
+
+https://therecord.media/shares-in-australias-medibank-drop-despite-foiling-ransomware-attack/
