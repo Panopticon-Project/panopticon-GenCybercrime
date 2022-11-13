@@ -41,3 +41,5 @@ https://therecord.media/shares-in-australias-medibank-drop-despite-foiling-ranso
 https://therecord.media/notorious-hacker-daniel-kaye-arraigned-for-allegedly-running-dark-web-marketplace/
 
 https://www.mandiant.com/resources/blog/caffeine-phishing-service-platform
+
+https://isc.sans.edu/diary/Another+ScriptBased+Ransomware/29234/
