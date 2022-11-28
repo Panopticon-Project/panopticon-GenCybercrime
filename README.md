@@ -43,3 +43,5 @@ https://therecord.media/notorious-hacker-daniel-kaye-arraigned-for-allegedly-run
 https://www.mandiant.com/resources/blog/caffeine-phishing-service-platform
 
 https://isc.sans.edu/diary/Another+ScriptBased+Ransomware/29234/
+
+https://www.interpol.int/News-and-Events/News/2022/Operation-across-Africa-identifies-cyber-criminals-and-at-risk-online-infrastructure
