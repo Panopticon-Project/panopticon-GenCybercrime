@@ -47,3 +47,5 @@ https://isc.sans.edu/diary/Another+ScriptBased+Ransomware/29234/
 https://www.interpol.int/News-and-Events/News/2022/Operation-across-Africa-identifies-cyber-criminals-and-at-risk-online-infrastructure
 
 https://archive.ph/roil9
+
+https://therecord.media/spanish-police-arrest-55-people-involved-in-wide-ranging-cyberscam-operation/
