@@ -49,3 +49,5 @@ https://www.interpol.int/News-and-Events/News/2022/Operation-across-Africa-ident
 https://archive.ph/roil9
 
 https://therecord.media/spanish-police-arrest-55-people-involved-in-wide-ranging-cyberscam-operation/
+
+https://www.securityweek.com/french-hospital-cancels-operations-after-cyberattack
