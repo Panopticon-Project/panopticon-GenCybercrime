@@ -51,3 +51,5 @@ https://archive.ph/roil9
 https://therecord.media/spanish-police-arrest-55-people-involved-in-wide-ranging-cyberscam-operation/
 
 https://www.securityweek.com/french-hospital-cancels-operations-after-cyberattack
+
+https://blog.qualys.com/vulnerabilities-threat-research/2022/12/12/dissecting-the-empire-c2-framework
