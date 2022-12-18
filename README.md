@@ -57,3 +57,5 @@ https://blog.qualys.com/vulnerabilities-threat-research/2022/12/12/dissecting-th
 https://research.openanalysis.net/rat/brute%20ratel/redteam/python/research/boymoderre/2022/12/11/brute-ratel.html
 
 https://therecord.media/four-accused-in-business-email-compromise-scheme-which-reaped-millions-from-victims/
+
+https://www.afp.gov.au/news-media/media-releases/four-men-charged-sydney-sophisticated-cyber-scam-world-wide-losses
