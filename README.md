@@ -53,3 +53,5 @@ https://therecord.media/spanish-police-arrest-55-people-involved-in-wide-ranging
 https://www.securityweek.com/french-hospital-cancels-operations-after-cyberattack
 
 https://blog.qualys.com/vulnerabilities-threat-research/2022/12/12/dissecting-the-empire-c2-framework
+
+https://research.openanalysis.net/rat/brute%20ratel/redteam/python/research/boymoderre/2022/12/11/brute-ratel.html
