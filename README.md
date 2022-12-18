@@ -59,3 +59,7 @@ https://research.openanalysis.net/rat/brute%20ratel/redteam/python/research/boym
 https://therecord.media/four-accused-in-business-email-compromise-scheme-which-reaped-millions-from-victims/
 
 https://www.afp.gov.au/news-media/media-releases/four-men-charged-sydney-sophisticated-cyber-scam-world-wide-losses
+
+https://www.secretservice.gov/newsroom/releases/2022/12/four-defendants-arrested-multimillion-dollar-fraud-and-money-laundering
+
+https://www.justice.gov/usao-sdny/pr/four-defendants-arrested-multimillion-dollar-fraud-and-money-laundering-scheme
