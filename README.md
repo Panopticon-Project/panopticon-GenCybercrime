@@ -63,3 +63,5 @@ https://www.afp.gov.au/news-media/media-releases/four-men-charged-sydney-sophist
 https://www.secretservice.gov/newsroom/releases/2022/12/four-defendants-arrested-multimillion-dollar-fraud-and-money-laundering
 
 https://www.justice.gov/usao-sdny/pr/four-defendants-arrested-multimillion-dollar-fraud-and-money-laundering-scheme
+
+https://therecord.media/russian-hackers-accessed-jfk-airport-taxi-software-port-authority/
