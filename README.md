@@ -65,3 +65,5 @@ https://www.secretservice.gov/newsroom/releases/2022/12/four-defendants-arrested
 https://www.justice.gov/usao-sdny/pr/four-defendants-arrested-multimillion-dollar-fraud-and-money-laundering-scheme
 
 https://therecord.media/russian-hackers-accessed-jfk-airport-taxi-software-port-authority/
+
+https://ke-la.com/wp-content/uploads/2022/12/KELA-RESEARCH_KEYS-TO-THE-KINGDOM_WEBMAIL-ACCOUNTS-1.pdf
