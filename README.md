@@ -67,3 +67,5 @@ https://www.justice.gov/usao-sdny/pr/four-defendants-arrested-multimillion-dolla
 https://therecord.media/russian-hackers-accessed-jfk-airport-taxi-software-port-authority/
 
 https://ke-la.com/wp-content/uploads/2022/12/KELA-RESEARCH_KEYS-TO-THE-KINGDOM_WEBMAIL-ACCOUNTS-1.pdf
+
+https://blog.morphisec.com/babuk-ransomware-variant-major-attack - malware varient doesn't have a name so its going to be impossible to track
