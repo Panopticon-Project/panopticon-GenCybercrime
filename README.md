@@ -71,3 +71,7 @@ https://ke-la.com/wp-content/uploads/2022/12/KELA-RESEARCH_KEYS-TO-THE-KINGDOM_W
 https://blog.morphisec.com/babuk-ransomware-variant-major-attack - malware varient doesn't have a name so its going to be impossible to track
 
 https://archive.ph/l74TL
+
+https://labs.guard.io/masquerads-googles-ad-words-massively-abused-by-threat-actors-targeting-organizations-gpus-42ae73ee8a1e
+
+https://isc.sans.edu/diary/rss/29376
