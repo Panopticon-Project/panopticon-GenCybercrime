@@ -79,3 +79,5 @@ https://isc.sans.edu/diary/rss/29376
 https://www.rtvdrenthe.nl/nieuws/15165815/vier-jaar-cel-voor-jonge-cybercrimineel-uit-eelderwolde
 
 https://www.justice.gov/usao-mdfl/pr/four-men-arrested-transnational-wire-fraud-and-identity-theft-conspiracy
+
+https://www.europol.europa.eu/media-press/newsroom/news/2-469-money-mules-arrested-in-worldwide-crackdown-against-money-laundering
