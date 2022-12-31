@@ -69,3 +69,5 @@ https://therecord.media/russian-hackers-accessed-jfk-airport-taxi-software-port-
 https://ke-la.com/wp-content/uploads/2022/12/KELA-RESEARCH_KEYS-TO-THE-KINGDOM_WEBMAIL-ACCOUNTS-1.pdf
 
 https://blog.morphisec.com/babuk-ransomware-variant-major-attack - malware varient doesn't have a name so its going to be impossible to track
+
+https://archive.ph/l74TL
