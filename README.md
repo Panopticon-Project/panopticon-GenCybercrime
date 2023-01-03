@@ -83,3 +83,7 @@ https://www.justice.gov/usao-mdfl/pr/four-men-arrested-transnational-wire-fraud-
 https://www.europol.europa.eu/media-press/newsroom/news/2-469-money-mules-arrested-in-worldwide-crackdown-against-money-laundering
 
 https://therecord.media/four-indicted-after-hacking-us-businesses-filing-false-tax-returns/
+
+https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=14662&
+
+https://www.europol.europa.eu/media-press/newsroom/news/international-operation-shuts-down-websites-offering-counterfeit-goods-and-pirated-content
