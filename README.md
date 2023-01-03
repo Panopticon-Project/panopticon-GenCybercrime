@@ -87,3 +87,5 @@ https://therecord.media/four-indicted-after-hacking-us-businesses-filing-false-t
 https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=14662&
 
 https://www.europol.europa.eu/media-press/newsroom/news/international-operation-shuts-down-websites-offering-counterfeit-goods-and-pirated-content
+
+https://www.securityweek.com/crackdown-african-cybercrime-leads-arrests-infrastructure-takedown
