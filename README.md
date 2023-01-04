@@ -91,3 +91,5 @@ https://www.europol.europa.eu/media-press/newsroom/news/international-operation-
 https://www.securityweek.com/crackdown-african-cybercrime-leads-arrests-infrastructure-takedown
 
 https://www.interpol.int/News-and-Events/News/2022/Cyber-enabled-financial-crime-USD-130-million-intercepted-in-global-INTERPOL-police-operation
+
+https://www.group-ib.com/media-center/press-releases/professional-stealers/
