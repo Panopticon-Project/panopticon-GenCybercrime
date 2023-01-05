@@ -93,3 +93,5 @@ https://www.securityweek.com/crackdown-african-cybercrime-leads-arrests-infrastr
 https://www.interpol.int/News-and-Events/News/2022/Cyber-enabled-financial-crime-USD-130-million-intercepted-in-global-INTERPOL-police-operation
 
 https://www.group-ib.com/media-center/press-releases/professional-stealers/
+
+https://news.mt.co.kr/mtview.php?no=2022111619145548411&utm_source=substack&utm_medium=email
