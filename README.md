@@ -95,3 +95,17 @@ https://www.interpol.int/News-and-Events/News/2022/Cyber-enabled-financial-crime
 https://www.group-ib.com/media-center/press-releases/professional-stealers/
 
 https://news.mt.co.kr/mtview.php?no=2022111619145548411&utm_source=substack&utm_medium=email
+
+https://cyberpolice.gov.ua/news/kiberpolicziya-provela-zagalnonaczionalnu-operacziyu-z-prypynennya-diyalnosti-vorozhyx-botoferm-7521/
+
+https://therecord.media/ukraine-dismantles-social-media-bot-farm-spreading-panic/
+
+https://www.bleepingcomputer.com/news/security/ukraine-dismantles-5-disinformation-bot-farms-seizes-10-000-sim-cards/
+
+https://ssu.gov.ua/en/novyny/sbu-likviduvala-milionnu-botofermu-yaka-rozkhytuvala-obstanovku-v-ukraini-na-zamovlennia-odniiei-z-politsyl-video
+
+https://ssu.gov.ua/en/novyny/sbu-zablokuvala-shche-dvi-botofermy-yaki-rozghanialy-destruktyvnyi-kontent-v-ukraini
+
+https://cyberpolice.gov.ua/news/kiberpolicziya-vykryla-masshtabnu-merezhu-botoferm-shho-poshyryuvala-fejky-ta-propagandu-pro-vijnu-v-ukrayini--yurij-vyxodecz-3162/
+
+https://ssu.gov.ua/novyny/sbu-likviduvala-u-dnipri-vorozhu-botofermu-yaka-stvoryla-maizhe-10-tys-feikovykh-akauntiv-dlia-rozghonu-kremlivskoi-propahandy-v-yes
