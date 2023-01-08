@@ -111,3 +111,5 @@ https://cyberpolice.gov.ua/news/kiberpolicziya-vykryla-masshtabnu-merezhu-botofe
 https://ssu.gov.ua/novyny/sbu-likviduvala-u-dnipri-vorozhu-botofermu-yaka-stvoryla-maizhe-10-tys-feikovykh-akauntiv-dlia-rozghonu-kremlivskoi-propahandy-v-yes
 
 https://news.mt.co.kr/mtview.php?no=2022111619145548411&utm_source=substack&utm_medium=email
+
+https://www.ptsecurity.com/ww-en/analytics/cybercriminal-market-in-telegram/?utm_source=substack&utm_medium=email
