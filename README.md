@@ -109,3 +109,5 @@ https://ssu.gov.ua/en/novyny/sbu-zablokuvala-shche-dvi-botofermy-yaki-rozghanial
 https://cyberpolice.gov.ua/news/kiberpolicziya-vykryla-masshtabnu-merezhu-botoferm-shho-poshyryuvala-fejky-ta-propagandu-pro-vijnu-v-ukrayini--yurij-vyxodecz-3162/
 
 https://ssu.gov.ua/novyny/sbu-likviduvala-u-dnipri-vorozhu-botofermu-yaka-stvoryla-maizhe-10-tys-feikovykh-akauntiv-dlia-rozghonu-kremlivskoi-propahandy-v-yes
+
+https://news.mt.co.kr/mtview.php?no=2022111619145548411&utm_source=substack&utm_medium=email
