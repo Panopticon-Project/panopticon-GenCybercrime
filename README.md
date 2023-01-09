@@ -117,3 +117,11 @@ https://www.ptsecurity.com/ww-en/analytics/cybercriminal-market-in-telegram/
 https://storage.courtlistener.com/recap/gov.uscourts.gand.289153/gov.uscourts.gand.289153.17.0.pdf
 
 https://www.databreaches.net/surprise-daniel-kaye-operator-of-the-real-deal-pleads-guilty-to-one-count-is-sentenced-to-time-served-and-is-released/
+
+https://mp.weixin.qq.com/s/S-E8YVMycGXOmc3mRpxuiQ
+
+https://epp.genproc.gov.ru/web/proc_30/mass-media/news?item=77314451&utm_source=substack&utm_medium=email
+
+https://habr.com/ru/news/t/699576/
+
+https://www.justice.gov/usao-cdca/pr/orange-county-man-and-sacramento-man-sentenced-prison-participating-massive-fraud-and
