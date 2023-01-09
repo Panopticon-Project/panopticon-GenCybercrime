@@ -112,4 +112,8 @@ https://ssu.gov.ua/novyny/sbu-likviduvala-u-dnipri-vorozhu-botofermu-yaka-stvory
 
 https://news.mt.co.kr/mtview.php?no=2022111619145548411&utm_source=substack&utm_medium=email
 
-https://www.ptsecurity.com/ww-en/analytics/cybercriminal-market-in-telegram/?utm_source=substack&utm_medium=email
+https://www.ptsecurity.com/ww-en/analytics/cybercriminal-market-in-telegram/
+
+https://storage.courtlistener.com/recap/gov.uscourts.gand.289153/gov.uscourts.gand.289153.17.0.pdf
+
+https://www.databreaches.net/surprise-daniel-kaye-operator-of-the-real-deal-pleads-guilty-to-one-count-is-sentenced-to-time-served-and-is-released/
