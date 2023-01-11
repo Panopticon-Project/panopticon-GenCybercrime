@@ -129,3 +129,5 @@ https://www.justice.gov/usao-cdca/pr/orange-county-man-and-sacramento-man-senten
 https://therecord.media/romanian-man-sentenced-for-laundering-3-5-million-in-fraudulent-online-auction-proceeds/
 
 https://resecurity.com/blog/article/dark-web-markets-compete-drug-trafficking-illegal-pharmacy-monopoly
+
+https://perception-point.io/blog/the-rebranded-crypter-scrubcrypt/
