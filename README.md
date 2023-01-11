@@ -125,3 +125,5 @@ https://epp.genproc.gov.ru/web/proc_30/mass-media/news?item=77314451&utm_source=
 https://habr.com/ru/news/t/699576/
 
 https://www.justice.gov/usao-cdca/pr/orange-county-man-and-sacramento-man-sentenced-prison-participating-massive-fraud-and
+
+https://therecord.media/romanian-man-sentenced-for-laundering-3-5-million-in-fraudulent-online-auction-proceeds/
