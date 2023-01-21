@@ -133,3 +133,5 @@ https://resecurity.com/blog/article/dark-web-markets-compete-drug-trafficking-il
 https://perception-point.io/blog/the-rebranded-crypter-scrubcrypt/
 
 https://theintercept.com/2023/01/15/guccifer-interview-hacked-clinton-emails/ - good context
+
+https://cyberpolice.gov.ua/news/kiberpoliczejski-kyyeva-vykryly-spivmeshkancziv-u-shaxrajstvi-z-vykorystannyam-fishyngu-3223/
