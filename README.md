@@ -135,3 +135,7 @@ https://perception-point.io/blog/the-rebranded-crypter-scrubcrypt/
 https://theintercept.com/2023/01/15/guccifer-interview-hacked-clinton-emails/ - good context
 
 https://cyberpolice.gov.ua/news/kiberpoliczejski-kyyeva-vykryly-spivmeshkancziv-u-shaxrajstvi-z-vykorystannyam-fishyngu-3223/
+
+https://blog.sonatype.com/malware-monthly-december-2022
+
+https://www.recordedfuture.com/annual-payment-fraud-intelligence-report-2022
